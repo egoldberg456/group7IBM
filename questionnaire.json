@@ -1,42 +1,64 @@
 {
+  "contextWords": {
+    "check-in": "q1",
+    "check-out": "q2",
+    "reception": "q3",
+    "breakfast": "q4",
+    "floors": "q5",
+    "parking": "q6",
+    "credit-card": "q7",
+    "bars": "q8",
+    "train": "q9",
+    "airport": "q10"
+  },
   "questionnaire": {
     "q1": {
+      "word": "check-in",
       "question": "What is the check-in time?",
       "answer": "Check-in time is after 4 p.m."
       },
     "q2": {
+      "word": "check-out",
       "question": "What is the check-out time?",
       "answer": "Check-out time is before 11 a.m."
       },
       "q3": {
+        "word": "reception",
         "question": "Is Reception open 24 hours?",
         "answer": "Reception service is available 24 hours."
         },
       "q4": {
+        "word": "breakfast",
         "question": "Is breakfast included in the price?",
         "answer": "Breakfast is offered to all guests staying at the hotel."
         },
       "q5": {
+        "word": "floors",
         "question": "How many floors does the hotel have?",
-        "answer": "The hotel has seven floors in all."
+        "answer": "The hotel has eight floors in all."
         },
       "q6": {
+        "word": "parking",
         "question": "How much does parking cost?",
         "answer": "The car park costs is included in a room rate."
         },
       "q7": {
+        "word": "credit-card",
         "question": "Can I pay by credit card?",
         "answer": "We accept Visa, MasterCard, JCB, American Express and Diners Club cards."
         },
       "q8": {
+        "word": "bars",
         "question": "How many bars does the hotel have?",
         "answer": "The hotel has one bar."
         },
       "q9": {
+        "word": "train",
         "question": "Which is the nearest train station?",
         "answer": "Nearest railway station is Kramer Station only 0.7 mi away from the hotel."
         },
       "q10": {
+        "word": "airport",
         "question": "Which is the nearest airport?",
         "answer": "Nearest airport is the Austin-Bergstrom International Airport, which is located around 14.4 mi away."
         }
