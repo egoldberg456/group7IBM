@@ -1,0 +1,44 @@
+{
+  "questionnaire": {
+    "q1": {
+      "question": "What is the check-in time?",
+      "answer": "Check-in time is after 4 p.m."
+      },
+    "q2": {
+      "question": "What is the check-out time?",
+      "answer": "Check-out time is before 11 a.m."
+      },
+      "q3": {
+        "question": "Is Reception open 24 hours?",
+        "answer": "Reception service is available 24 hours."
+        },
+      "q4": {
+        "question": "Is breakfast included in the price?",
+        "answer": "Breakfast is offered to all guests staying at the hotel."
+        },
+      "q5": {
+        "question": "How many floors does the hotel have?",
+        "answer": "The hotel has seven floors in all."
+        },
+      "q6": {
+        "question": "How much does parking cost?",
+        "answer": "The car park costs is included in a room rate."
+        },
+      "q7": {
+        "question": "Can I pay by credit card?",
+        "answer": "We accept Visa, MasterCard, JCB, American Express and Diners Club cards."
+        },
+      "q8": {
+        "question": "How many bars does the hotel have?",
+        "answer": "The hotel has one bar."
+        },
+      "q9": {
+        "question": "Which is the nearest train station?",
+        "answer": "Nearest railway station is Kramer Station only 0.7 mi away from the hotel."
+        },
+      "q10": {
+        "question": "Which is the nearest airport?",
+        "answer": "Nearest airport is the Austin-Bergstrom International Airport, which is located around 14.4 mi away."
+        }
+    }
+}
